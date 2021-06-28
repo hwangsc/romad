@@ -17,7 +17,11 @@ body {
     background:white;
     position:relative;
 }
-main { height:100% }
+main { 
+    height:100% ;
+    max-width: 750px; 
+    margin: auto;
+}
 dl,dt,dd,ul,ol,li {
     list-style:none;
 }
