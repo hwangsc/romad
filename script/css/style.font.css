@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+
+@font-face {
+    font-family: 'noto';
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.eot');
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.eot?#iefix') format('embedded-opentype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.woff2') format('woff2'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.woff') format('woff'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.ttf') format('truetype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-regular.svg#notokr-regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noto';
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.eot');
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.eot?#iefix') format('embedded-opentype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.woff2') format('woff2'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.woff') format('woff'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.ttf') format('truetype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-medium.svg#notokr-medium') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noto';
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.eot');
+    src: url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.eot?#iefix') format('embedded-opentype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.woff2') format('woff2'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.woff') format('woff'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.ttf') format('truetype'),
+         url('https://d2t72fqhhsdts3.cloudfront.net/lomad/img/Product/common/font/notokr-bold.svg#notokr-bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
